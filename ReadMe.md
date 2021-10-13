@@ -10,21 +10,21 @@ general overview of the model is provided in the document "Overview_MADSim, SDI 
 ***************************************************************
 Provided files:
 
-SDIopneSource_MADSim.m						Source code, to run the model use this file in MATLAB (no additional toolboxes should be required)
+"SDIopneSource_MADSim.m"					Source code, to run the model use this file in MATLAB (no additional toolboxes should be required)
 
-Overview_MADSim, SDI OpenSource.pdf				General overview of provided model, references contained within this document
+"Overview_MADSim, SDI OpenSource.pdf"				General overview of provided model, references contained within this document
 
-LICENSE								License, modeled after MIT open-source license
+"LICENSE"							License, modeled after MIT open-source license
 
-BHA Data_Example RSS.xlsx					Example data, see "Overview_MADSim, SDI OpenSource.pdf"
+"BHA Data_Example RSS.xlsx"					Example data, see "Overview_MADSim, SDI OpenSource.pdf"
 
-BHA Data_ExampleAssembly.xlsx					Example data, see "Overview_MADSim, SDI OpenSource.pdf"
+"BHA Data_ExampleAssembly.xlsx"					Example data, see "Overview_MADSim, SDI OpenSource.pdf"
 
-Example Results_Loading_ExampleAssemblyTurn.xlsx		Example data, see "Overview_MADSim, SDI OpenSource.pdf"
+"Example Results_Loading_ExampleAssemblyTurn.xlsx"		Example data, see "Overview_MADSim, SDI OpenSource.pdf"
 
-Example Results_MotorYield (Sliding)_Example Assembly.xlsx	Example data, see "Overview_MADSim, SDI OpenSource.pdf"
+"Example Results_MotorYield (Sliding)_Example Assembly.xlsx"	Example data, see "Overview_MADSim, SDI OpenSource.pdf"
 
-Wilson, 2017 (Dissertation).pdf					Reference to original model, from which this simplifeid model is based
+"Wilson, 2017 (Dissertation).pdf"				Reference to original model, from which this simplifeid model is based
 
 ***************************************************************
 ***************************************************************
