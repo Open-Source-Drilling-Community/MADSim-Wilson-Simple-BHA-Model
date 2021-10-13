@@ -1,9 +1,13 @@
 MADSim-Wilson-Simple-BHA-Model: Simplified Nonlinear BHA Model
 
+***************************************************************
+***************************************************************
 The supplied code is written in Matlab (versions 2013 - 2021). It is based on a fully nonlinear downhole dynamics model, and 
 has been simplified to provide insight to the implementation of nonlinear finite elements as they relate to BHA mechanics. A
 general overview of the model is provided in the document "Overview_MADSim, SDI OpenSource.pdf".
 
+***************************************************************
+***************************************************************
 Provided files:
 
 SDIopneSource_MADSim.m						Source code, to run the model use this file in MATLAB (no additional toolboxes should be required)
@@ -22,7 +26,8 @@ Example Results_MotorYield (Sliding)_Example Assembly.xlsx	Example data, see "Ov
 
 Wilson, 2017 (Dissertation).pdf					Reference to original model, from which this simplifeid model is based
 
-
+***************************************************************
+***************************************************************
 Limitations of provided model:
 +	Straight wellbores only
 +	Constant wellbore OD
@@ -31,8 +36,8 @@ Limitations of provided model:
 +	Graphic user interfaces have been removed
 +	Advanced plotting features have been removed
 
-
-
+***************************************************************
+***************************************************************
 Due to copyright limitations, only some of the references listed for this Open-Source contribution can be provided here.
 
 1)	Wilson, J.K. 2017. “Nonlinear Drillstring Modeling with Application to Induced Vibrations in Unconventional Horizontal Wells”. Ph.D. Dissertation. Texas A&M University.
